@@ -1,6 +1,9 @@
 Nama : Sadat Ardiansyah
+
 Nim : 20210801180
+
 Prodi : Teknik Informatika
+
 Penjelasan dari gambar ini merupakan representasi topologi jaringan untuk tiga kampus, yaitu:
 
 Kampus Citra Raya
